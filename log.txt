@@ -1,0 +1,134 @@
+UserID: 1055000829 | Time: 2024-09-10 17:25:47.536115 | Command: /bgmi | Target: 20.198.74.219 | Port: 20678 | Time: 10
+Username: @TancantDac
+Target: 20.198.74.219
+Port: 20678
+Time: 10
+
+UserID: 1055000829 | Time: 2024-09-10 17:26:29.778639 | Command: /bgmi | Target: 20.198.74.219 | Port: 20678 | Time: 10
+Username: @TancantDac
+Target: 20.198.74.219
+Port: 20678
+Time: 10
+
+UserID: 1055000829 | Time: 2024-09-10 17:28:12.593794 | Command: /bgmi | Target: 52.140.63.169 | Port: 18582 | Time: 180
+UserID: 1055000829 | Time: 2024-09-10 17:30:29.629425 | Command: /bgmi | Target: 52.140.63.169 | Port: 18582 | Time: 180
+Username: @TancantDac
+Target: 52.140.63.169
+Port: 18582
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 17:46:34.780083 | Command: /bgmi | Target: 20.219.6.192 | Port: 15265 | Time: 180
+Username: @TancantDac
+Target: 20.219.6.192
+Port: 15265
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 18:06:55.115209 | Command: /bgmi | Target: 20.204.19.255 | Port: 10565 | Time: 180
+Username: @TancantDac
+Target: 20.204.19.255
+Port: 10565
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 18:10:01.339162 | Command: /bgmi | Target: 20.204.19.255 | Port: 10565 | Time: 180
+Username: @TancantDac
+Target: 20.204.19.255
+Port: 10565
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 18:23:35.906826 | Command: /bgmi | Target: 20.235.50.135 | Port: 16265 | Time: 180
+Username: @TancantDac
+Target: 20.235.50.135
+Port: 16265
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 18:40:41.251438 | Command: /bgmi | Target: 20.235.50.135 | Port: 16265 | Time: 10
+Username: @TancantDac
+Target: 20.235.50.135
+Port: 16265
+Time: 10
+
+UserID: 1055000829 | Time: 2024-09-10 18:51:33.557837 | Command: /bgmi | Target: 20.235.50.135 | Port: 16265 | Time: 60
+Username: @TancantDac
+Target: 20.235.50.135
+Port: 16265
+Time: 60
+
+UserID: 1055000829 | Time: 2024-09-10 19:25:16.728874 | Command: /bgmi | Target: 20.235.50.135 | Port: 16265 | Time: 60
+Username: @TancantDac
+Target: 20.235.50.135
+Port: 16265
+Time: 60
+
+UserID: 1055000829 | Time: 2024-09-10 19:32:43.984502 | Command: /bgmi | Target: 20.198.110.70 | Port: 22328 | Time: 180
+Username: @TancantDac
+Target: 20.198.110.70
+Port: 22328
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 19:47:12.256229 | Command: /bgmi | Target: 20.40.44.132 | Port: 11120 | Time: 180
+Username: @TancantDac
+Target: 20.40.44.132
+Port: 11120
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 19:56:34.447626 | Command: /bgmi | Target: 20.198.76.88 | Port: 13676 | Time: 180
+UserID: 1055000829 | Time: 2024-09-10 19:56:46.508704 | Command: /bgmi | Target: 20.198.76.88 | Port: 13676 | Time: 180
+Username: @TancantDac
+Target: 20.198.76.88
+Port: 13676
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 19:59:49.162385 | Command: /bgmi | Target: 20.198.76.88 | Port: 13676 | Time: 180
+Username: @TancantDac
+Target: 20.198.76.88
+Port: 13676
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 20:04:54.715128 | Command: /bgmi | Target: 4.213.65.132 | Port: 19710 | Time: 180
+Username: @TancantDac
+Target: 4.213.65.132
+Port: 19710
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 20:07:56.924784 | Command: /bgmi | Target: 4.213.65.132 | Port: 19710 | Time: 180
+Username: @TancantDac
+Target: 4.213.65.132
+Port: 19710
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-10 20:11:26.165190 | Command: /bgmi | Target: 20.235.150.111 | Port: 15083 | Time: 30
+Username: @TancantDac
+Target: 20.235.150.111
+Port: 15083
+Time: 30
+
+UserID: 1055000829 | Time: 2024-09-12 03:06:13.521699 | Command: /bgmi | Target: 4.213.68.231 | Port: 16996 | Time: 10
+Username: @TancantDac
+Target: 4.213.68.231
+Port: 16996
+Time: 10
+
+UserID: 1055000829 | Time: 2024-09-15 13:31:10.015739 | Command: /bgmi | Target: 103.219.201.217 | Port: 10012 | Time: 180
+Username: @TancantDac
+Target: 103.219.201.217
+Port: 10012
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-15 14:08:47.173986 | Command: /bgmi | Target: 103.219.200.67 | Port: 10012 | Time: 180
+Username: @TancantDac
+Target: 103.219.200.67
+Port: 10012
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-15 14:17:04.570518 | Command: /bgmi | Target: 20.235.95.34 | Port: 22667 | Time: 180
+Username: @TancantDac
+Target: 20.235.95.34
+Port: 22667
+Time: 180
+
+UserID: 1055000829 | Time: 2024-09-15 14:21:54.685336 | Command: /bgmi | Target: 103.16.34.92 | Port: 10011 | Time: 180
+Username: @TancantDac
+Target: 103.16.34.92
+Port: 10011
+Time: 180
+
